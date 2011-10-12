@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://yui.yahooapis.com/${TM_YUI_VERSION:3.4.1}/build/yui/yui${2:-min.js}"&gt;&lt;/script&gt;$0
+</string>
+	<key>name</key>
+	<string>Bootstrap</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>yui</string>
+	<key>uuid</key>
+	<string>3270780F-EFF3-4CA4-B02F-513189481684</string>
+</dict>
+</plist>

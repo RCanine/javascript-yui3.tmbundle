@@ -4,6 +4,15 @@
 <dict>
 	<key>name</key>
 	<string>JavaScript YUI 3</string>
+	<key>ordering</key>
+	<array>
+		<string>2A852213-4CF8-4D2B-A457-84F9FE05C98B</string>
+		<string>DFC55F29-3E90-4288-BDC1-49FC9A992A43</string>
+		<string>0ED8E3AA-3941-45EA-AB26-80E356FEC4AD</string>
+		<string>FF77E75D-0D2E-49D1-A025-FBAADD88E71A</string>
+		<string>3270780F-EFF3-4CA4-B02F-513189481684</string>
+		<string>C5C01EEE-FF60-43FE-935C-81403116EA35</string>
+	</array>
 	<key>uuid</key>
 	<string>AA2CE3B9-D2A5-4F1E-96C3-FB64C5F59568</string>
 </dict>

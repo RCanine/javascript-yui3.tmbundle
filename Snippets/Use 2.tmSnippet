@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script&gt;
+YUI(${1:{\}}).use(${2:"node", }function (Y) {
+
+  $0
+
+});
+&lt;/script&gt;</string>
+	<key>name</key>
+	<string>Use</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>yui</string>
+	<key>uuid</key>
+	<string>FF77E75D-0D2E-49D1-A025-FBAADD88E71A</string>
+</dict>
+</plist>
