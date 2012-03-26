@@ -2,6 +2,121 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>excludedItems</key>
+		<array>
+			<string>F79EE8FD-AA5A-469B-B2AF-C91F44971C4D</string>
+			<string>4FA58C15-8E8F-4DE6-95C4-005E0FA4716E</string>
+			<string>D3A456D1-78A5-45C2-BED7-818203445ABD</string>
+			<string>3D267AF8-AAE8-4B2C-AF1C-45AD4E54FC24</string>
+			<string>47DD1D6D-573B-40ED-B373-E9E4DD243CF1</string>
+			<string>2ABB508C-C5CB-4462-BAD7-8C2AFB86F703</string>
+		</array>
+		<key>items</key>
+		<array>
+			<string>2A852213-4CF8-4D2B-A457-84F9FE05C98B</string>
+			<string>0ED8E3AA-3941-45EA-AB26-80E356FEC4AD</string>
+			<string>EE08AA75-542A-4042-9AFF-CFE1591D3B3E</string>
+			<string>C1D82487-2BF8-4071-B686-145F30786616</string>
+			<string>FF77E75D-0D2E-49D1-A025-FBAADD88E71A</string>
+			<string>3270780F-EFF3-4CA4-B02F-513189481684</string>
+			<string>04BA9B0F-5EAC-45B6-AF68-2AD80FA678C6</string>
+			<string>53C939B0-21CA-47A4-B239-744F68EB4FBE</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>04BA9B0F-5EAC-45B6-AF68-2AD80FA678C6</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B6425705-A67A-47F6-953B-0389039F4ED7</string>
+					<string>D739B465-4A4D-4182-8E28-452B8B9B5DFB</string>
+					<string>DBBEABEE-0A24-4237-B793-5604E381729D</string>
+					<string>8E7CEA8D-27AC-4A60-A52B-99E961DA1B7C</string>
+					<string>1E2F636C-DA1E-46AD-B9BF-3AC9F269AADE</string>
+					<string>9CD5EA18-4DA0-4A9B-A3D2-0EC5C29184F1</string>
+					<string>04C1CF92-D713-44C1-B7F9-63966E7D6CE2</string>
+					<string>1574FE46-3A19-4DE0-8C0F-FBCEA8E39E06</string>
+				</array>
+				<key>name</key>
+				<string>YUI Doc</string>
+			</dict>
+			<key>1E2F636C-DA1E-46AD-B9BF-3AC9F269AADE</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>E4BEEE4F-3A0E-4266-829D-E8205F23AF6D</string>
+					<string>E3C7486B-21AF-4C8F-8216-E451854A6DE1</string>
+					<string>8B67BB9A-71D5-4B5E-B111-5C75EA3427C5</string>
+				</array>
+				<key>name</key>
+				<string>Module</string>
+			</dict>
+			<key>53C939B0-21CA-47A4-B239-744F68EB4FBE</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>7157D319-591F-48C3-A193-CAF106B9C68C</string>
+					<string>C4F3A502-B52B-4A98-A17D-32D3BCBC4EE4</string>
+					<string>2F53A44B-F60A-4663-87A4-E8B7348B365B</string>
+					<string>CAA507D4-27C0-41B7-9F18-BB9E8429F6F0</string>
+				</array>
+				<key>name</key>
+				<string>Visibility</string>
+			</dict>
+			<key>8E7CEA8D-27AC-4A60-A52B-99E961DA1B7C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B23E4715-28FB-40A6-8E25-56DC8B32ABBE</string>
+					<string>26E54997-D210-4F08-B3E4-851C9456D397</string>
+					<string>B14717DA-B7BF-48E0-9D60-6545CC22356D</string>
+					<string>58F74FB9-E475-460D-809C-8C3646ADE1C6</string>
+				</array>
+				<key>name</key>
+				<string>Method</string>
+			</dict>
+			<key>B6425705-A67A-47F6-953B-0389039F4ED7</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>67B4FFFE-A674-4377-AB90-341D328BB309</string>
+					<string>410E762F-E31F-4E5C-AF50-39F7509F3225</string>
+					<string>6172EE6D-D958-4904-B78E-6409E1B48245</string>
+					<string>7C371C84-64AF-48A5-9767-0FAD9A83AAF2</string>
+					<string>14F90EC8-6807-4458-8A56-0C29F7D387E2</string>
+				</array>
+				<key>name</key>
+				<string>Attribute</string>
+			</dict>
+			<key>D739B465-4A4D-4182-8E28-452B8B9B5DFB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F9586F10-3D3A-4B08-B7DA-D59B71FBCEAF</string>
+					<string>2665E912-8A79-42E4-BC8A-39092FCA1B42</string>
+					<string>36B153FF-61B3-4174-A43C-815D5CD22D96</string>
+					<string>3986D6DC-23BD-47AF-9EA1-DE81C8576853</string>
+				</array>
+				<key>name</key>
+				<string>Class</string>
+			</dict>
+			<key>DBBEABEE-0A24-4237-B793-5604E381729D</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>D0DF1E80-E6F5-4B75-AFBE-D51FF3AFF5F8</string>
+					<string>CDA6F91A-E583-42BE-9E84-ED7C02DB08EF</string>
+					<string>2A6CB773-2609-44EA-AD7A-EF49DB470C4B</string>
+					<string>BCF03AA7-ADC0-4CCA-8354-4F2DBFAFE4D2</string>
+					<string>E1E55432-B394-40D2-B701-6FF5EB429D6A</string>
+				</array>
+				<key>name</key>
+				<string>Event</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>JavaScript YUI 3</string>
 	<key>ordering</key>
@@ -14,6 +129,11 @@
 		<string>FF77E75D-0D2E-49D1-A025-FBAADD88E71A</string>
 		<string>3270780F-EFF3-4CA4-B02F-513189481684</string>
 		<string>C5C01EEE-FF60-43FE-935C-81403116EA35</string>
+		<string>2ABB508C-C5CB-4462-BAD7-8C2AFB86F703</string>
+		<string>D0DF1E80-E6F5-4B75-AFBE-D51FF3AFF5F8</string>
+		<string>CDA6F91A-E583-42BE-9E84-ED7C02DB08EF</string>
+		<string>2A6CB773-2609-44EA-AD7A-EF49DB470C4B</string>
+		<string>BCF03AA7-ADC0-4CCA-8354-4F2DBFAFE4D2</string>
 		<string>F79EE8FD-AA5A-469B-B2AF-C91F44971C4D</string>
 		<string>E4BEEE4F-3A0E-4266-829D-E8205F23AF6D</string>
 		<string>E3C7486B-21AF-4C8F-8216-E451854A6DE1</string>
@@ -23,6 +143,7 @@
 		<string>26E54997-D210-4F08-B3E4-851C9456D397</string>
 		<string>B14717DA-B7BF-48E0-9D60-6545CC22356D</string>
 		<string>58F74FB9-E475-460D-809C-8C3646ADE1C6</string>
+		<string>E1E55432-B394-40D2-B701-6FF5EB429D6A</string>
 		<string>3986D6DC-23BD-47AF-9EA1-DE81C8576853</string>
 		<string>9CD5EA18-4DA0-4A9B-A3D2-0EC5C29184F1</string>
 		<string>04C1CF92-D713-44C1-B7F9-63966E7D6CE2</string>

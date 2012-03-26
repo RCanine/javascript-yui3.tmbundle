@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@namespace ${1:name}</string>
 	<key>name</key>
-	<string>YUI Doc: namespace</string>
+	<string>namespace</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

@@ -6,7 +6,7 @@
 	<string>@property ${1:name}
 </string>
 	<key>name</key>
-	<string>YUI Doc: property</string>
+	<string>property</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

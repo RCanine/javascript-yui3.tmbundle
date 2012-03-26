@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>YUI(${1:{\}}).use(${2:"node", }function (Y) {
-
+  "use strict";
   $0
 
 });
@@ -14,7 +14,7 @@
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>yui</string>
+	<string>use</string>
 	<key>uuid</key>
 	<string>0ED8E3AA-3941-45EA-AB26-80E356FEC4AD</string>
 </dict>

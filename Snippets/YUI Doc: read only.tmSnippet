@@ -6,7 +6,7 @@
 	<string>@readOnly
 </string>
 	<key>name</key>
-	<string>YUI Doc: read only</string>
+	<string>read only</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

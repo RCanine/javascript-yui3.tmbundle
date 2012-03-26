@@ -6,7 +6,7 @@
 	<string>@param ${1:config} {${2:Object}} ${3:Object literal specifying configuration properties.}
 </string>
 	<key>name</key>
-	<string>YUI Doc: param</string>
+	<string>param</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

@@ -6,7 +6,7 @@
 	<string>@param {${1:String}} ${2:paramName} ${3:Definition of the param}
 </string>
 	<key>name</key>
-	<string>YUI Doc: param</string>
+	<string>param</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

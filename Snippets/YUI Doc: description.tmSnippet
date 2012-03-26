@@ -6,7 +6,7 @@
 	<string>@description $1
 </string>
 	<key>name</key>
-	<string>YUI Doc: description</string>
+	<string>description</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

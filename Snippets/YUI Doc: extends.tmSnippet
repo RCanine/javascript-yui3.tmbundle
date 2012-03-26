@@ -6,7 +6,7 @@
 	<string>@extends ${1:Base}
 </string>
 	<key>name</key>
-	<string>YUI Doc: extends</string>
+	<string>extends</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

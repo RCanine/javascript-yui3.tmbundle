@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@submodule $1</string>
 	<key>name</key>
-	<string>YUI Doc: submodule</string>
+	<string>submodule</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

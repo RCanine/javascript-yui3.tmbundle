@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@final</string>
+	<string>@event ${1:widget:contentUpdate}</string>
 	<key>name</key>
-	<string>final</string>
+	<string>event name</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>@v</string>
+	<string>@ev</string>
 	<key>uuid</key>
-	<string>C4F3A502-B52B-4A98-A17D-32D3BCBC4EE4</string>
+	<string>D0DF1E80-E6F5-4B75-AFBE-D51FF3AFF5F8</string>
 </dict>
 </plist>

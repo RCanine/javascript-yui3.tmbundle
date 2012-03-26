@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@module $1</string>
 	<key>name</key>
-	<string>YUI Doc: module name</string>
+	<string>module name</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

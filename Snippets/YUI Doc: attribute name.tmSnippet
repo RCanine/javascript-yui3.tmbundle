@@ -6,7 +6,7 @@
 	<string>@attribute
 </string>
 	<key>name</key>
-	<string>YUI Doc: attribute name</string>
+	<string>attribute name</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

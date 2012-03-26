@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@param {${1:String}} ${2:Definition of the return}</string>
 	<key>name</key>
-	<string>YUI Doc: return</string>
+	<string>return</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

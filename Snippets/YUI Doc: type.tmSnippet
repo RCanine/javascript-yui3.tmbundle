@@ -6,7 +6,7 @@
 	<string>@type ${1:String}
 </string>
 	<key>name</key>
-	<string>YUI Doc: type</string>
+	<string>type</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

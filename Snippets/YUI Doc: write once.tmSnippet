@@ -6,7 +6,7 @@
 	<string>@writeOnce
 </string>
 	<key>name</key>
-	<string>YUI Doc: write once</string>
+	<string>write once</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

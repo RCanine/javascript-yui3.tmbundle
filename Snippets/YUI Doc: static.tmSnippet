@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>@static</string>
 	<key>name</key>
-	<string>YUI Doc: static</string>
+	<string>static</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>@</string>
+	<string>@v</string>
 	<key>uuid</key>
 	<string>CAA507D4-27C0-41B7-9F18-BB9E8429F6F0</string>
 </dict>

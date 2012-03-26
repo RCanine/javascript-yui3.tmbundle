@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@final</string>
+	<string>@param {EventFacade} ${2:event} ${3:The Event Facade}
+</string>
 	<key>name</key>
-	<string>final</string>
+	<string>param</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>@v</string>
+	<string>@ev</string>
 	<key>uuid</key>
-	<string>C4F3A502-B52B-4A98-A17D-32D3BCBC4EE4</string>
+	<string>E1E55432-B394-40D2-B701-6FF5EB429D6A</string>
 </dict>
 </plist>

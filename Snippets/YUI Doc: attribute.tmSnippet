@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@a</string>
 	<key>name</key>
-	<string>YUI Doc: attribute</string>
+	<string>attribute</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

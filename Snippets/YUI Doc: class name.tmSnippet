@@ -6,7 +6,7 @@
 	<string>@class ${1:Widget}
 </string>
 	<key>name</key>
-	<string>YUI Doc: class name</string>
+	<string>class name</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

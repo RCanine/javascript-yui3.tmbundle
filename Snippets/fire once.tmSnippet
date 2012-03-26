@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@final</string>
+	<string>@fireOnce</string>
 	<key>name</key>
-	<string>final</string>
+	<string>fire once</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>@v</string>
+	<string>@ev</string>
 	<key>uuid</key>
-	<string>C4F3A502-B52B-4A98-A17D-32D3BCBC4EE4</string>
+	<string>CDA6F91A-E583-42BE-9E84-ED7C02DB08EF</string>
 </dict>
 </plist>

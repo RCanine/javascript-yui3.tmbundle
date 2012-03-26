@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@constructor</string>
 	<key>name</key>
-	<string>YUI Doc: constructor</string>
+	<string>constructor</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

@@ -6,7 +6,7 @@
 	<string>@default ${1:default value}
 </string>
 	<key>name</key>
-	<string>YUI Doc: default</string>
+	<string>default</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

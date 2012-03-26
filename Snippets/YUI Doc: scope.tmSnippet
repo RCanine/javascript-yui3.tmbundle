@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@s</string>
+	<string>@v</string>
 	<key>name</key>
-	<string>YUI Doc: scope</string>
+	<string>visibility</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
