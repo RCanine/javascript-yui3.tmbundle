@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@writeOnce
+</string>
+	<key>name</key>
+	<string>YUI Doc: write once</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>@a</string>
+	<key>uuid</key>
+	<string>6172EE6D-D958-4904-B78E-6409E1B48245</string>
+</dict>
+</plist>

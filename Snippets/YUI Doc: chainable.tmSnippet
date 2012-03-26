@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@chainable</string>
+	<key>name</key>
+	<string>YUI Doc: chainable</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>@m</string>
+	<key>uuid</key>
+	<string>26E54997-D210-4F08-B3E4-851C9456D397</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@readOnly
+</string>
+	<key>name</key>
+	<string>YUI Doc: read only</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>@a</string>
+	<key>uuid</key>
+	<string>14F90EC8-6807-4458-8A56-0C29F7D387E2</string>
+</dict>
+</plist>

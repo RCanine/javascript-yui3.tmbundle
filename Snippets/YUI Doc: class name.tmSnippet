@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@class ${1:Widget}
+</string>
+	<key>name</key>
+	<string>YUI Doc: class name</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>@c</string>
+	<key>uuid</key>
+	<string>2665E912-8A79-42E4-BC8A-39092FCA1B42</string>
+</dict>
+</plist>

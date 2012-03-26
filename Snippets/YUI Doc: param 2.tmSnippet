@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@param ${1:config} {${2:Object}} ${3:Object literal specifying configuration properties.}
+</string>
+	<key>name</key>
+	<string>YUI Doc: param</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>@c</string>
+	<key>uuid</key>
+	<string>3986D6DC-23BD-47AF-9EA1-DE81C8576853</string>
+</dict>
+</plist>

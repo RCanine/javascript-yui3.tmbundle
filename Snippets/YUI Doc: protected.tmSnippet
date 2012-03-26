@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@protected</string>
+	<key>name</key>
+	<string>YUI Doc: protected</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>@s</string>
+	<key>uuid</key>
+	<string>7157D319-591F-48C3-A193-CAF106B9C68C</string>
+</dict>
+</plist>

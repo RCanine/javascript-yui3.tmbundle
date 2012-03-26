@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Y.Base.create("$1", ${2:Y.Base}, ${3:[$4]}, {
+
+}, {
+  ATTRS: {
+  }
+});
+</string>
+	<key>name</key>
+	<string>Base.create</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>create</string>
+	<key>uuid</key>
+	<string>C1D82487-2BF8-4071-B686-145F30786616</string>
+</dict>
+</plist>
