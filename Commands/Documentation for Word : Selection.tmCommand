@@ -9,7 +9,9 @@
 
 require 'cgi'
 
-SEARCH_URL = 'http://search.yahoo.com/search?p=%q+inurl:developer.yahoo.com/yui/3/api'
+# TODO use http://yuilibrary.com/api/v1/search/suggest?q=%q&amp;count=20
+
+SEARCH_URL = 'http://search.yahoo.com/search?q=%q&amp;vs=yuilibrary.com'
 
 word = (ENV['TM_CURRENT_WORD'] || '').gsub(/[\(\)\s;]/, '')
 puts "&lt;meta http-equiv=\"refresh\" content=\"0;url=#{SEARCH_URL.sub('%q', CGI.escape(word))}\"&gt;"</string>
