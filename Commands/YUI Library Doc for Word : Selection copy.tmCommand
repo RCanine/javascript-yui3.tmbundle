@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>. "$TM_SUPPORT_PATH/lib/webpreview.sh"
+html_header "YUI3 Library Search" "${TM_FILENAME:-}"
+
+${TM_RUBY:-ruby} -rubygems -e '
+
+require "net/http"
+require "uri"
+require "json"
+
+query = URI.escape(STDIN.read)
+url = URI.parse("http://yuilibrary.com/api/v1/search/suggest?q=#{query}&amp;count=20")
+response = Net::HTTP.get_response(url)
+json = JSON.parse(response.body)
+if json["status"] == "success"
+  puts "&lt;ol&gt;"
+  json["data"]["results"].each do |result|
+    name = result["displayName"] || result["name"]
+    puts "&lt;li&gt;&lt;h3&gt;&lt;a href=\"http://yuilibrary.com#{result["url"]}\"&gt;#{name}&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;#{result["description"]}&lt;/p&gt;&lt;/li&gt;"
+  end
+  puts "&lt;/ol&gt;"
+else
+  puts ":("
+end
+
+'
+html_footer</string>
+	<key>fallbackInput</key>
+	<string>word</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>^h</string>
+	<key>name</key>
+	<string>YUI Library Doc for Word / Selection copy</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>43422C65-92D1-4398-B01F-97612638BAFB</string>
+</dict>
+</plist>
